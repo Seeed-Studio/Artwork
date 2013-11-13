@@ -25,7 +25,7 @@
    inkscape:export-ydpi="300"><metadata
    id="metadata2250"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs2248">
 	
 	
@@ -1107,13 +1107,13 @@
    inkscape:window-height="1017"
    id="namedview2246"
    showgrid="true"
-   inkscape:zoom="2.6041668"
-   inkscape:cx="142.6589"
-   inkscape:cy="145.4963"
+   inkscape:zoom="3.682848"
+   inkscape:cx="180.31022"
+   inkscape:cy="157.94959"
    inkscape:window-x="1358"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer2"
+   inkscape:current-layer="g21863"
    inkscape:snap-bbox="true"
    inkscape:object-nodes="true"
    inkscape:snap-smooth-nodes="true"
@@ -3123,12 +3123,14 @@
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11437-36">LED4</text>
 
+
 <text
    y="43.278202"
    x="166.73254"
    gorn="0.4.0.0.0.0.0.20.0.0.0.0.0.1.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11441-2">LED2</text>
+
 
 <text
    y="48.781963"
@@ -3137,12 +3139,14 @@
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11443-7">LED1</text>
 
+
 <text
    y="37.748024"
    x="166.73254"
    gorn="0.4.0.0.0.0.0.20.0.0.0.0.0.3.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11439-3">LED3</text>
+
 
 <text
    y="53.257278"
@@ -3152,6 +3156,7 @@
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11437-3-9">PWR</text>
 
+
 <text
    y="67.122566"
    x="-138.82758"
@@ -3159,6 +3164,7 @@
    gorn="0.4.0.0.0.0.0.26.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11441-1-2">MSD</text>
+
 
 <text
    y="72.626328"
@@ -3168,6 +3174,7 @@
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11443-8-2">CDC</text>
 
+
 <text
    y="61.592384"
    x="-138.82758"
@@ -3175,6 +3182,7 @@
    gorn="0.4.0.0.0.0.0.28.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11439-9-2">HID</text>
+
 
 <text
    y="112.32033"
@@ -3185,6 +3193,7 @@
    id="text505-4"
    font-size="3.5">5V</text>
 
+
 <text
    y="147.95264"
    x="-139.48273"
@@ -3193,6 +3202,7 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text511-2"
    font-size="4">P0_23</text>
+
 
 <text
    y="97.79982"
@@ -3203,6 +3213,7 @@
    id="text593-7"
    font-size="3.5">RST</text>
 
+
 <text
    y="105"
    x="-139.42622"
@@ -3211,6 +3222,7 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text603-7"
    font-size="3.5">3V3</text>
+
 
 <text
    y="155.15193"
@@ -3221,6 +3233,7 @@
    id="text649-4"
    font-size="4">P0_24</text>
 
+
 <text
    y="162.35204"
    x="-139.48273"
@@ -3229,6 +3242,7 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text655-2"
    font-size="4">P0_25</text>
+
 
 <text
    y="169.55223"
@@ -3239,6 +3253,7 @@
    id="text661-6"
    font-size="4">P0_26</text>
 
+
 <text
    y="176.75153"
    x="-139.48273"
@@ -3247,6 +3262,7 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text667-7"
    font-size="4">P1_30</text>
+
 
 <text
    y="183.95264"
@@ -3257,6 +3273,7 @@
    id="text673-8"
    font-size="4">P1_31</text>
 
+
 <text
    y="133.92091"
    x="-139.42622"
@@ -3265,6 +3282,7 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text683-5"
    font-size="3.5">VIN</text>
+
 
 <text
    y="119.52051"
@@ -3275,6 +3293,7 @@
    id="text693-3"
    font-size="3.5">GND</text>
 
+
 <text
    y="90.599625"
    x="-139.42622"
@@ -3283,6 +3302,7 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text773-3"
    font-size="3.5">IOREF</text>
+
 
 <text
    y="126.72072"
@@ -3293,6 +3313,7 @@
    id="text783-7"
    font-size="3.5">GND</text>
 
+
 <text
    y="83.272377"
    x="-139.42622"
@@ -3302,12 +3323,14 @@
    id="text773-4-7"
    font-size="3.5">P2_12</text>
 
+
 <text
    y="90.061684"
    x="174.94971"
    id="tspan11433-2"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    gorn="0.4.0.0.0.0.0.61.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0">UART</text>
+
 
 <text
    y="104.90631"
@@ -3316,12 +3339,14 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-0-3">SDA</text>
 
+
 <text
    y="115.80236"
    x="137.81483"
    gorn="0.4.0.0.0.0.0.62.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-2-8">GND</text>
+
 
 <text
    y="99.458282"
@@ -3330,12 +3355,14 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-7-6">SCL</text>
 
+
 <text
    y="110.35433"
    x="137.52809"
    gorn="0.4.0.0.0.0.0.62.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-6-3">3V3</text>
+
 
 <text
    y="104.90631"
@@ -3344,12 +3371,14 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-0-2-9">TX</text>
 
+
 <text
    y="115.80236"
    x="165.19624"
    gorn="0.4.0.0.0.0.0.63.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-2-5-3">GND</text>
+
 
 <text
    y="99.458282"
@@ -3358,12 +3387,14 @@
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-7-8-5">RX</text>
 
+
 <text
    y="110.35433"
    x="165.19624"
    gorn="0.4.0.0.0.0.0.63.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text411-8-0-6-6-9-1">3V3</text>
+
 
 <text
    y="139.45828"
@@ -3372,12 +3403,14 @@
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    gorn="0.4.0.0.0.0.0.64.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0">BUTTON</text>
 
+
 <text
    y="59.458279"
    x="181.41289"
    id="tspan11435-9"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    gorn="0.4.0.0.0.0.0.65.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0">SPI</text>
+
 
 <text
    x="151.58026"
@@ -3386,167 +3419,186 @@
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:OCRA;-inkscape-font-specification:OCRA"
    id="tspan11433-9">I2C</text>
 
+
 <text
    y="70.627266"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.43.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text521-9"
    font-size="4">P2_13</text>
 
+
 <text
    y="55.913425"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.44.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text531-5"
    font-size="4">P0_28</text>
 
+
 <text
    y="63.111629"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.45.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text537-8"
    font-size="4">P0_27</text>
 
+
 <text
    y="77.497406"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.46.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text553-8"
    font-size="4">GND</text>
 
+
 <text
    y="99.225311"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.47.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text703-0"
    font-size="4">P0_9</text>
 
+
 <text
    y="106.06517"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.48.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text713-9"
    font-size="4">P0_6</text>
 
+
 <text
    y="113.26436"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.49.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text723-0"
    font-size="4">P0_1</text>
 
+
 <text
    y="139.54463"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.50.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text733-4"
    font-size="4">P2_4</text>
 
+
 <text
    y="146.74486"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.51.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text743-8"
    font-size="4">P2_3</text>
 
+
 <text
    y="161.50462"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.52.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text753-3"
    font-size="4">P0_5</text>
 
+
 <text
    y="84.824921"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.53.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text763-0"
    font-size="4">P0_7</text>
 
+
 <text
    y="175.73309"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    font-size="4"
    id="text1191-1"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    gorn="0.4.0.0.0.0.0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">P4_28</text>
 
+
 <text
    y="182.9343"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    font-size="4"
    id="text1201-9"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    gorn="0.4.0.0.0.0.0.55.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">P4_29</text>
 
+
 <text
    y="92.917313"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.56.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text703-1-68"
    font-size="4">P0_8</text>
 
+
 <text
    y="120.45137"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.57.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text703-1-6-4"
    font-size="4">P0_0</text>
 
+
 <text
    y="131.92091"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.58.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text703-1-2-6"
    font-size="4">P2_5</text>
 
+
 <text
    y="153.42628"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.59.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text703-1-1-1"
    font-size="4">P2_2</text>
 
+
 <text
    y="167.47647"
-   x="-23.847925"
+   x="-25.847797"
    transform="matrix(0,-1,1,0,0,0)"
    gorn="0.4.0.0.0.0.0.60.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
    style="font-size:4px;fill:#ffffff;font-family:OCRA"
    id="text703-1-5-5"
    font-size="4">P0_4</text>
+
 
 </g><g
      id="g9624"><path
@@ -5143,6 +5195,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_12</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5156,6 +5209,7 @@
      x="55.755463"
      y="-20.960243"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">IOREF</tspan></text>
+
 
 
 <text
@@ -5173,6 +5227,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">RST</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5186,6 +5241,7 @@
      x="58.825638"
      y="-6.3935437"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">3V3</tspan></text>
+
 
 
 <text
@@ -5203,6 +5259,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">5V</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5216,6 +5273,7 @@
      x="57.489662"
      y="8.1763"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">GND</tspan></text>
+
 
 
 <text
@@ -5233,6 +5291,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">GND</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5246,6 +5305,7 @@
      x="58.850044"
      y="22.743832"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">VIN</tspan></text>
+
 
 
 <text
@@ -5263,6 +5323,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_23</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5276,6 +5337,7 @@
      x="56.113861"
      y="44.052029"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_24</tspan></text>
+
 
 
 <text
@@ -5293,6 +5355,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_25</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5306,6 +5369,7 @@
      x="56.136986"
      y="58.621365"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_26</tspan></text>
+
 
 
 <text
@@ -5323,6 +5387,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P1_30</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5336,6 +5401,7 @@
      x="56.458134"
      y="73.191193"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P1_31</tspan></text>
+
 
 
 <text
@@ -5353,6 +5419,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">GND</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5366,6 +5433,7 @@
      x="58.825638"
      y="99.806152"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">3V3</tspan></text>
+
 
 
 <text
@@ -5383,6 +5451,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_10</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5396,6 +5465,7 @@
      x="57.588577"
      y="106.70067"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_0</tspan></text>
+
 
 
 <text
@@ -5413,6 +5483,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_1</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5426,6 +5497,7 @@
      x="56.458134"
      y="128.55701"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_11</tspan></text>
+
 
 
 <text
@@ -5443,6 +5515,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_28</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5456,6 +5529,7 @@
      x="344.15536"
      y="-47.765518"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_27</tspan></text>
+
 
 
 <text
@@ -5473,6 +5547,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_23</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5486,6 +5561,7 @@
      x="345.5029"
      y="-33.196175"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">GND</tspan></text>
+
 
 
 <text
@@ -5503,6 +5579,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_7</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5516,6 +5593,7 @@
      x="345.61209"
      y="-18.626976"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_8</tspan></text>
+
 
 
 <text
@@ -5533,6 +5611,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_9</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5546,6 +5625,7 @@
      x="345.59924"
      y="-4.057549"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_6</tspan></text>
+
 
 
 <text
@@ -5563,6 +5643,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_1</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5576,6 +5657,7 @@
      x="345.60181"
      y="10.508713"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_0</tspan></text>
+
 
 
 <text
@@ -5593,6 +5675,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_5</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5606,6 +5689,7 @@
      x="345.57611"
      y="29.570202"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_4</tspan></text>
+
 
 
 <text
@@ -5623,6 +5707,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_3</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5636,6 +5721,7 @@
      x="345.60437"
      y="44.140022"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_2</tspan></text>
+
 
 
 <text
@@ -5653,6 +5739,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_5</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5666,6 +5753,7 @@
      x="345.57611"
      y="58.711384"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_4</tspan></text>
+
 
 
 <text
@@ -5683,6 +5771,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P4_28</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5696,6 +5785,7 @@
      x="344.16565"
      y="73.282204"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P4_29</tspan></text>
+
 
 
 <text
@@ -5713,6 +5803,7 @@
      sodipodi:role="line">P0_17</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5726,6 +5817,7 @@
      x="347.43106"
      y="102.36449"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">NC</tspan></text>
+
 
 
 <text
@@ -5743,6 +5835,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_15</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5756,6 +5849,7 @@
      x="344.16306"
      y="116.35285"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_18</tspan></text>
+
 
 
 <text
@@ -5773,6 +5867,7 @@
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P0_16</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5786,6 +5881,7 @@
      x="345.5029"
      y="131.31351"
      style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">GND</tspan></text>
+
 
 
 <text
@@ -5803,6 +5899,7 @@
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">PwmOut</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -5816,6 +5913,7 @@
      x="323.43964"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-2-1"
      sodipodi:role="line">TXD1</tspan></text>
+
 
 
 <text
@@ -5833,6 +5931,7 @@
      sodipodi:role="line">RXD1</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5846,6 +5945,7 @@
      x="323.51175"
      y="3.1811178"
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">SCL1</tspan></text>
+
 
 
 <text
@@ -5863,6 +5963,7 @@
      sodipodi:role="line">SDA1</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -5876,6 +5977,7 @@
      x="301.05203"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-0"
      sodipodi:role="line">SCL0</tspan></text>
+
 
 
 <text
@@ -5893,6 +5995,7 @@
      sodipodi:role="line">RXD3</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -5906,6 +6009,7 @@
      x="300.7872"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-0"
      sodipodi:role="line">TXD3</tspan></text>
+
 
 
 <text
@@ -5923,6 +6027,7 @@
      sodipodi:role="line">TXD3</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -5936,6 +6041,7 @@
      x="300.7872"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-0-5-6"
      sodipodi:role="line">RXD3</tspan></text>
+
 
 
 <text
@@ -5953,6 +6059,7 @@
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">MISO</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5966,6 +6073,7 @@
      x="299.1637"
      y="116.31167"
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">MOSI</tspan></text>
+
 
 
 <text
@@ -5983,6 +6091,7 @@
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">SCK</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5996,6 +6105,7 @@
      x="300.14688"
      y="123.59111"
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">SSEL</tspan></text>
+
 
 
 <text
@@ -6013,6 +6123,7 @@
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">SSEL</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6026,6 +6137,7 @@
      x="299.1637"
      y="-11.385719"
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">MOSI</tspan></text>
+
 
 
 <text
@@ -6043,6 +6155,7 @@
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">MISO</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6056,6 +6169,7 @@
      x="300.78326"
      y="-25.957329"
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">SCK</tspan></text>
+
 
 
 <text
@@ -6073,6 +6187,7 @@
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">SDA0</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6086,6 +6201,7 @@
      x="110.56025"
      y="54.548008"
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">AnalogIn</tspan></text>
+
 
 
 <text
@@ -6103,6 +6219,7 @@
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">PwmOut</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6116,6 +6233,7 @@
      x="81.638374"
      y="121.22583"
      style="font-size:4.04745626px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">SDA2</tspan></text>
+
 
 
 <text
@@ -6133,6 +6251,7 @@
      sodipodi:role="line">SCL2</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6146,6 +6265,7 @@
      x="105.68415"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5"
      sodipodi:role="line">TXD1</tspan></text>
+
 
 
 <text
@@ -6163,6 +6283,7 @@
      sodipodi:role="line">RXD1</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6176,6 +6297,7 @@
      x="80.416504"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-4-5"
      sodipodi:role="line">RXD3</tspan></text>
+
 
 
 <text
@@ -6193,6 +6315,7 @@
      sodipodi:role="line">TXD3</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6208,6 +6331,7 @@
      sodipodi:role="line">TXD2</tspan></text>
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6221,6 +6345,7 @@
      x="105.13375"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-5"
      sodipodi:role="line">RXD2</tspan></text>
+
 
 
 </g></svg>
