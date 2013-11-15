@@ -27,17 +27,17 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1366"
-   inkscape:window-height="705"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
    id="namedview2377"
    showgrid="false"
    inkscape:zoom="2.1927762"
-   inkscape:cx="205.23127"
-   inkscape:cy="243.49592"
-   inkscape:window-x="-30634"
-   inkscape:window-y="-32000"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="svg2"
+   inkscape:cx="134.77264"
+   inkscape:cy="207.01249"
+   inkscape:window-x="1358"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g38850"
    inkscape:snap-bbox="true"
    inkscape:snap-grids="true"
    inkscape:snap-page="true"
@@ -773,20 +773,20 @@
      d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
      transform="scale(-0.6,-0.6)" /></marker></defs>
 <rect
-   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+   style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none"
    id="rect5848"
-   width="445.66049"
-   height="333.02545"
-   x="0"
-   y="-0.00102417"
-   rx="1.5988159"
-   ry="1.5680103" /><g
+   width="396.28345"
+   height="324.36063"
+   x="24.170273"
+   y="8.6637907"
+   rx="1.4216748"
+   ry="1.5272131" /><g
    transform="matrix(0,1,-1,0,322.78234,-262.4165)"
    id="g38850"><path
      inkscape:connector-curvature="0"
      id="path30362"
      d="m 292.3125,3.96875 0,188.9375 c 124.64721,0 75.39066,0.2207 233.84375,0 l 0,-9.03125 8.96875,-8.96875 0,-116.09375 -8.96875,-8.96875 0,-40.46875 -5.40625,-5.40625 -228.4375,0 z m 53.9375,3.3125 c 3.11519,0 5.625,2.5615318 5.625,5.6875 0,3.125968 -2.50981,5.65625 -5.625,5.65625 -3.11519,0 -5.65625,-2.530282 -5.65625,-5.65625 0,-3.1259682 2.54106,-5.6875 5.65625,-5.6875 z m 155.15625,35.625 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m 9,0 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m -9,8.96875 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m 9,0 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m -9,9 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m 9,0 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m 15.71875,0.40625 c 3.11519,0 5.625,2.530282 5.625,5.65625 0,3.125968 -2.50981,5.65625 -5.625,5.65625 -3.11519,0 -5.65625,-2.530282 -5.65625,-5.65625 0,-3.125968 2.54106,-5.65625 5.65625,-5.65625 z M 501.40625,69.875 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m 9,0 c 0.86234,0 1.5625,0.700163 1.5625,1.5625 0,0.862337 -0.70016,1.5625 -1.5625,1.5625 -0.86234,0 -1.5625,-0.700163 -1.5625,-1.5625 0,-0.862337 0.70016,-1.5625 1.5625,-1.5625 z m 15.75,90.34375 c 3.11519,0 5.625,2.56153 5.625,5.6875 0,3.12597 -2.50981,5.65625 -5.625,5.65625 -3.11519,0 -5.65625,-2.53028 -5.65625,-5.65625 0,-3.12597 2.54106,-5.6875 5.65625,-5.6875 z"
-     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1" /><g
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1" /><g
      transform="matrix(1.2499976,0,0,1.2499976,94.827514,-742.82393)"
      id="g34577"
      gorn="0.4.0.0.0.0.0.1.0.0.0.0.0"
@@ -4136,6 +4136,8 @@
      id="tspan11425-2">BUTTON</tspan></text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-5"
@@ -4143,6 +4145,8 @@
    y="66.61705"><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#000000;fill-opacity:1"
      id="tspan11445">LED_USB</tspan></text>
+
+
 
 
 <text
@@ -4154,6 +4158,8 @@
      id="tspan11437-1">LED4</tspan></text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-1"
@@ -4161,6 +4167,8 @@
    y="53.372406"><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#000000;fill-opacity:1"
      id="tspan11441-14">LED2</tspan></text>
+
+
 
 
 <text
@@ -4172,6 +4180,8 @@
      id="tspan11443-0">LED1</tspan></text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-16"
@@ -4181,11 +4191,15 @@
      id="tspan11439-7">LED3</tspan></text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6"
    x="477.39691"
    y="116.90998">I2C</text>
+
+
 
 
 <text
@@ -4197,6 +4211,8 @@
      id="tspan11433-7">UART</tspan></text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-4"
@@ -4204,6 +4220,8 @@
    y="79.460999"><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#000000;fill-opacity:1"
      id="tspan11435-96">SPI</tspan></text>
+
+
 
 
 <text
@@ -4215,6 +4233,8 @@
      id="tspan11435-9">SWD</tspan></text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="3.5"
@@ -4222,6 +4242,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.07085"
    y="428.81644">5V</text>
+
+
 
 
 <text
@@ -4233,6 +4255,8 @@
    y="473.28897">P0_11</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="4"
@@ -4240,6 +4264,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-36.861626"
    y="377.8931">P0_7</text>
+
+
 
 
 <text
@@ -4251,6 +4277,8 @@
    y="359.52881">P0_4</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="4"
@@ -4258,6 +4286,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-36.861622"
    y="368.51288">P0_5</text>
+
+
 
 
 <text
@@ -4269,6 +4299,8 @@
    y="386.46771">GND</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="3.5"
@@ -4276,6 +4308,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.07085"
    y="410.69345">RST</text>
+
+
 
 
 <text
@@ -4287,6 +4321,8 @@
    y="419.67996">3V3</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="4"
@@ -4294,6 +4330,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.14137"
    y="482.27438">P0_12</text>
+
+
 
 
 <text
@@ -4305,6 +4343,8 @@
    y="491.2608">P0_13</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="4"
@@ -4312,6 +4352,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.14137"
    y="500.24734">P0_14</text>
+
+
 
 
 <text
@@ -4323,6 +4365,8 @@
    y="509.23276">P0_16</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="4"
@@ -4330,6 +4374,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.14137"
    y="518.22046">P0_22</text>
+
+
 
 
 <text
@@ -4341,6 +4387,8 @@
    y="455.77603">VIN</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="3.5"
@@ -4348,6 +4396,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.07085"
    y="437.80298">GND</text>
+
+
 
 
 <text
@@ -4359,6 +4409,8 @@
    y="413.02094">P0_9</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="5"
@@ -4366,6 +4418,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-36.861626"
    y="422.04007">P0_2</text>
+
+
 
 
 <text
@@ -4377,6 +4431,8 @@
    y="431.05923">P1_27</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="5"
@@ -4384,6 +4440,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-36.861626"
    y="463.90863">P1_25</text>
+
+
 
 
 <text
@@ -4395,6 +4453,8 @@
    y="472.89517">P1_24</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="5"
@@ -4402,6 +4462,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-36.861626"
    y="491.31677">P1_17</text>
+
+
 
 
 <text
@@ -4413,6 +4475,8 @@
    y="394.98264">P1_29</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="3.5"
@@ -4420,6 +4484,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.07085"
    y="401.70691">IOREF</text>
+
+
 
 
 <text
@@ -4431,6 +4497,8 @@
    y="446.78952">GND</text>
 
 
+
+
 <text
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text1191"
@@ -4438,6 +4506,8 @@
    transform="matrix(0,-1,1,0,0,0)"
    x="-36.861622"
    y="509.07529">P0_19</text>
+
+
 
 
 <text
@@ -4449,6 +4519,8 @@
    y="518.06305">P0_18</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="3.5"
@@ -4456,6 +4528,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-179.07085"
    y="392.5618">P0_23</text>
+
+
 
 
 <text
@@ -4467,6 +4541,8 @@
    y="404.00177">P0_8</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="5"
@@ -4474,6 +4550,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-36.861626"
    y="440.07837">P1_26</text>
+
+
 
 
 <text
@@ -4485,6 +4563,8 @@
    y="454.39346">P1_5</text>
 
 
+
+
 <text
    transform="matrix(0,-1,1,0,0,0)"
    font-size="5"
@@ -4492,6 +4572,8 @@
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    x="-36.861626"
    y="481.23425">P1_18</text>
+
+
 
 
 <text
@@ -4503,11 +4585,15 @@
    y="498.7702">P0_17</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-0-27"
    x="462.49734"
    y="135.37387">SDA</text>
+
+
 
 
 <text
@@ -4517,11 +4603,15 @@
    y="148.97318">GND</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-7-4"
    x="462.49734"
    y="128.5742">SCL</text>
+
+
 
 
 <text
@@ -4531,11 +4621,15 @@
    y="142.17352">3V3</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-0-2-68"
    x="497.64426"
    y="135.32968">TX</text>
+
+
 
 
 <text
@@ -4545,6 +4639,8 @@
    y="148.929">GND</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-7-8-7"
@@ -4552,11 +4648,15 @@
    y="128.53001">RX</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-6-9-5"
    x="497.64426"
    y="142.12933">3V3</text>
+
+
 
 
 <text
@@ -4568,6 +4668,8 @@
      id="tspan11425-2-5">PWR</tspan></text>
 
 
+
+
 <text
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text1201-4"
@@ -4575,6 +4677,8 @@
    transform="matrix(0,-1,1,0,0,0)"
    x="-40.22834"
    y="518.61554">~</text>
+
+
 
 
 <text
@@ -4586,6 +4690,8 @@
    y="509.77844">~</text>
 
 
+
+
 <text
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text1201-4-27"
@@ -4593,6 +4699,8 @@
    transform="matrix(0,-1,1,0,0,0)"
    x="-40.22834"
    y="473.14145">~</text>
+
+
 
 
 <text
@@ -4604,6 +4712,8 @@
    y="463.8165">~</text>
 
 
+
+
 <text
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text1201-4-6"
@@ -4611,6 +4721,8 @@
    transform="matrix(0,-1,1,0,0,0)"
    x="-40.22834"
    y="440.83551">~</text>
+
+
 
 
 <text
@@ -4622,6 +4734,8 @@
    y="431.99667">~</text>
 
 
+
+
 <text
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text1201-4-69"
@@ -4629,6 +4743,8 @@
    transform="matrix(0,-1,1,0,0,0)"
    x="-40.151917"
    y="414.36673">~</text>
+
+
 
 
 <text
@@ -4640,12 +4756,16 @@
    y="406.54083">~</text>
 
 
+
+
 <text
    style="font-size:4.99238443000000040px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text1201-4-1"
    font-size="4"
    x="494.30725"
    y="129.01643">~</text>
+
+
 
 
 <text
@@ -4656,11 +4776,15 @@
    y="136.26428">~</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-2"
    x="437.1629"
    y="117.01809">ANOLOG</text>
+
+
 
 
 <text
@@ -4670,11 +4794,15 @@
    y="135.48198">A0</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-2-0-3"
    x="426.26334"
    y="149.08128">GND</text>
+
+
 
 
 <text
@@ -4684,11 +4812,15 @@
    y="128.68231">A1</text>
 
 
+
+
 <text
    style="font-size:5.21204948000000010px;fill:#000000;font-family:OCRA;fill-opacity:1"
    id="text411-8-0-6-6-0-4"
    x="425.90546"
    y="142.28163">3V3</text>
+
+
 
 
 </g><g
@@ -5648,6 +5780,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-6"
@@ -5668,6 +5802,8 @@
      x="394.99869"
      y="107.30147"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_5</tspan></text>
+
+
 
 
 
@@ -5712,6 +5848,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-2"
@@ -5732,6 +5870,8 @@
      x="394.99875"
      y="125.2996"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
+
+
 
 
 
@@ -5776,6 +5916,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-0"
@@ -5796,6 +5938,8 @@
      x="394.99875"
      y="143.29758"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_8</tspan></text>
+
+
 
 
 
@@ -5840,6 +5984,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-7-4"
@@ -5860,6 +6006,8 @@
      x="395.03369"
      y="161.29582"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_2</tspan></text>
+
+
 
 
 
@@ -5904,6 +6052,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-7-0"
@@ -5924,6 +6074,8 @@
      x="393.25635"
      y="179.29016"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P1_26</tspan></text>
+
+
 
 
 
@@ -5968,6 +6120,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-7-3"
@@ -5988,6 +6142,8 @@
      x="393.23099"
      y="202.83765"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P1_25</tspan></text>
+
+
 
 
 
@@ -6032,6 +6188,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-7-85"
@@ -6052,6 +6210,8 @@
      x="393.23099"
      y="220.8364"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P1_18</tspan></text>
+
+
 
 
 
@@ -6096,6 +6256,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-7-87"
@@ -6116,6 +6278,8 @@
      x="393.23093"
      y="238.83704"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_17</tspan></text>
+
+
 
 
 
@@ -6160,6 +6324,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-7-9"
@@ -6180,6 +6346,8 @@
      x="393.23093"
      y="256.83701"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_18</tspan></text>
+
+
 
 
 
@@ -6224,6 +6392,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-29"
@@ -6244,6 +6414,8 @@
      x="35.712326"
      y="140.41519"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">IOREF</tspan></text>
+
+
 
 
 
@@ -6288,6 +6460,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-21"
@@ -6308,6 +6482,8 @@
      x="39.473312"
      y="158.41006"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">3V3</tspan></text>
+
+
 
 
 
@@ -6352,6 +6528,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-8"
@@ -6372,6 +6550,8 @@
      x="37.822922"
      y="176.40883"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
+
+
 
 
 
@@ -6416,6 +6596,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-15"
@@ -6436,6 +6618,8 @@
      x="39.503464"
      y="194.40474"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">VIN</tspan></text>
+
+
 
 
 
@@ -6480,6 +6664,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-91"
@@ -6500,6 +6686,8 @@
      x="36.052429"
      y="220.72769"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">P0_12</tspan></text>
+
+
 
 
 
@@ -6544,6 +6732,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-68"
@@ -6564,6 +6754,8 @@
      x="36.023338"
      y="238.72583"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">P0_14</tspan></text>
+
+
 
 
 
@@ -6608,6 +6800,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-92"
@@ -6628,6 +6822,8 @@
      x="36.05825"
      y="256.72458"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">P0_22</tspan></text>
+
+
 
 
 
@@ -6716,6 +6912,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-77-3"
@@ -6736,6 +6934,8 @@
      x="397.26755"
      y="292.76364"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">NC</tspan></text>
+
+
 
 
 
@@ -6772,6 +6972,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-23-7"
@@ -6792,6 +6994,8 @@
      x="393.2197"
      y="310.04407"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P1_22</tspan></text>
+
+
 
 
 
@@ -6828,6 +7032,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-07-4"
@@ -6848,6 +7054,8 @@
      x="394.88306"
      y="328.52563"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
+
+
 
 
 
@@ -6912,6 +7120,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-91-8"
@@ -6932,6 +7142,8 @@
      x="38.313786"
      y="289.60321"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">3.3V</tspan></text>
+
+
 
 
 
@@ -6977,6 +7189,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-18-2"
@@ -7009,6 +7223,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-92-6"
@@ -7029,6 +7245,8 @@
      x="36.023338"
      y="307.08517"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">P1_14</tspan></text>
+
+
 
 
 
@@ -7078,6 +7296,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-01-4"
@@ -7098,6 +7318,8 @@
      x="93.83754"
      y="130.39014"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.61599999999999999;stroke-miterlimit:4;stroke-dasharray:none">AnalogIn</tspan></text>
+
+
 
 
 
@@ -7133,6 +7355,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-01-4-0-8-1-8-7-0"
@@ -7153,6 +7377,8 @@
      x="63.362831"
      y="302.56851"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">PwmOut</tspan></text>
+
+
 
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -7181,6 +7407,8 @@
 
 
 
+
+
 <text
    sodipodi:linespacing="125%"
    id="text8055-0-5-6-8-8-3-0-2-7-2"
@@ -7193,6 +7421,8 @@
      x="100.19252"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7"
      sodipodi:role="line">SCL</tspan></text>
+
+
 
 
 
@@ -7227,6 +7457,8 @@
 
 
 
+
+
 <rect
    ry="1.5"
    rx="1.5"
@@ -7247,6 +7479,8 @@
      x="99.865372"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5"
      sodipodi:role="line">TXD</tspan></text>
+
+
 
 
 
@@ -7281,6 +7515,8 @@
 
 
 
+
+
 <rect
    ry="1.5"
    rx="1.5"
@@ -7301,6 +7537,8 @@
      x="339.26416"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-4"
      sodipodi:role="line">RXD</tspan></text>
+
+
 
 
 
@@ -7335,6 +7573,8 @@
 
 
 
+
+
 <rect
    ry="1.5"
    rx="1.5"
@@ -7355,6 +7595,8 @@
      x="339.26416"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-4-5"
      sodipodi:role="line">RXD</tspan></text>
+
+
 
 
 
@@ -7389,6 +7631,8 @@
 
 
 
+
+
 <rect
    ry="1.5"
    rx="1.5"
@@ -7409,6 +7653,8 @@
      x="339.26416"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-4-5-4"
      sodipodi:role="line">RXD</tspan></text>
+
+
 
 
 
@@ -7443,6 +7689,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-01-4-0-8-1-8-7-0-1-1"
@@ -7463,6 +7711,8 @@
      x="362.91711"
      y="319.48825"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">PwmOut</tspan></text>
+
+
 
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -7491,6 +7741,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none"
@@ -7503,6 +7755,8 @@
      x="337.63818"
      y="309.99319"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">MOSI</tspan></text>
+
+
 
 
 
@@ -7529,6 +7783,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none"
@@ -7541,6 +7797,8 @@
      x="338.85278"
      y="318.98581"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">SSEL</tspan></text>
+
+
 
 
 
@@ -7569,6 +7827,8 @@
      y="252.28394"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">PwmOut</tspan></text>
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-01-4-0-8-1-8-7-0-1-1-7-8-0-3"
@@ -7589,6 +7849,8 @@
      x="362.91711"
      y="207.28612"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">PwmOut</tspan></text>
+
+
 
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -7617,6 +7879,8 @@
 
 
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-01-4-0-8-1-8-7-0-1-1-7-8-0-3-9-1-6-6"
@@ -7638,6 +7902,8 @@
      y="147.74326"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">PwmOut</tspan></text>
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none"
@@ -7650,6 +7916,8 @@
      x="337.63818"
      y="152.24301"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">MOSI</tspan></text>
+
+
 
 
 
@@ -7676,6 +7944,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none"
@@ -7695,6 +7965,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none"
@@ -7707,6 +7979,8 @@
      x="339.4375"
      y="107.24495"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000;fill-opacity:1;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">SDA</tspan></text>
+
+
 
 
 
@@ -7846,6 +8120,8 @@
      y="40.907364"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_10</tspan></text>
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-23"
@@ -7866,6 +8142,8 @@
      x="394.99872"
      y="49.901943"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P1_4</tspan></text>
+
+
 
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -7888,6 +8166,8 @@
      y="59.439758"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-07"
@@ -7908,6 +8188,8 @@
      x="395.03046"
      y="67.975693"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_0</tspan></text>
+
+
 
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -7930,6 +8212,8 @@
      y="32.601521"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">3.3V</tspan></text>
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-77"
@@ -7950,6 +8234,8 @@
      x="393.27692"
      y="22.835152"
      style="font-size:6.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">P0_15</tspan></text>
+
+
 
 <g
    transform="translate(292.33957,-31.187527)"
@@ -7987,6 +8273,8 @@
 
 
 
+
+
 </g></g><rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-01-4-4"
@@ -8007,6 +8295,8 @@
      x="333.61597"
      y="22.291573"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">AnalogIn</tspan></text>
+
+
 
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -8029,6 +8319,8 @@
      y="256.6705"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">PwmOut</tspan></text>
 
+
+
 <rect
    style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="rect7966-01-4-0-8-1-8-7-5-4"
@@ -8050,6 +8342,8 @@
      y="179.23924"
      style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke-width:0.56;stroke-miterlimit:4;stroke-dasharray:none">PwmOut</tspan></text>
 
+
+
 <path
    style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow2Mend)"
    d="m 106.09399,84.012918 22.28502,9.97829 -22.28502,6.961592"
@@ -8066,6 +8360,8 @@
      x="32.543427"
      y="79.712914"
      style="font-size:8px;fill:#000000">Quick release:</tspan></text>
+
+
 <text
    xml:space="preserve"
    style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -8078,6 +8374,8 @@
      x="41.599228"
      y="102.09469"
      style="font-size:8px;fill:#000000">Delayed release:</tspan></text>
+
+
 <text
    xml:space="preserve"
    style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -8090,6 +8388,8 @@
      y="80.107109"
      style="font-size:8px;fill:#000000"
      id="tspan13992">Reset</tspan></text>
+
+
 <text
    xml:space="preserve"
    style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -8102,6 +8402,8 @@
      x="44.224609"
      y="112.59623"
      style="font-size:8px">USB ISP Mode</tspan></text>
+
+
 <path
    d="m 213.18987,134.76338 -19.96954,0 0,19.96954 19.96954,0 0,-19.96954 z m -2.49584,8.93222 0,2.10511 c 0,0.0507 -0.0409,0.0981 -0.0907,0.10734 l -2.11335,0.3935 c -0.0499,0.01 -0.10247,0.0565 -0.11832,0.10446 l -0.58061,1.41717 c -0.0223,0.0454 -0.0179,0.11507 0.0112,0.15683 l 1.21078,1.76663 c 0.0287,0.0417 0.0248,0.10447 -0.0112,0.14035 l -1.4887,1.48595 c -0.036,0.0359 -0.0986,0.0423 -0.14032,0.0137 l -1.73362,-1.18875 c -0.0419,-0.029 -0.11445,-0.0343 -0.15961,-0.0112 l -1.46119,0.62741 c -0.0479,0.0167 -0.0925,0.0713 -0.10172,0.12106 l -0.3825,2.0418 c -0.009,0.0498 -0.0565,0.0909 -0.10733,0.0909 l -2.10236,0 c -0.0505,0 -0.10097,-0.0412 -0.11008,-0.0909 l -0.37148,-1.99227 c -0.009,-0.0499 -0.0563,-0.10297 -0.10459,-0.11832 l -1.55476,-0.62191 c -0.0456,-0.0223 -0.11507,-0.0177 -0.15683,0.0112 l -1.65105,1.13097 c -0.0417,0.0286 -0.10446,0.0221 -0.14034,-0.0137 l -1.48596,-1.48594 c -0.0356,-0.0357 -0.0419,-0.0986 -0.0139,-0.14035 l 1.11172,-1.62079 c 0.0285,-0.0417 0.0312,-0.11058 0.005,-0.1541 l -0.3825,-0.71546 c -0.0231,-0.0453 -0.002,-0.099 0.0441,-0.11832 l 3.56076,-1.4722 c 0.0468,-0.0195 0.10572,-0.001 0.13208,0.0413 l 0.11008,0.17886 c 0.0203,0.0329 0.0563,0.0779 0.0881,0.11283 0.41308,0.64523 1.13355,1.07319 1.9565,1.07319 1.28424,0 2.32524,-1.04111 2.32524,-2.32523 0,-1.28413 -1.041,-2.32524 -2.32524,-2.32524 -0.82295,0 -1.54342,0.42807 -1.9565,1.07318 -0.0318,0.0351 -0.0679,0.0825 -0.0881,0.11563 l -0.11008,0.17611 c -0.0265,0.0432 -0.0852,0.0637 -0.13208,0.0441 l -3.56076,-1.4722 c -0.0468,-0.0192 -0.067,-0.0732 -0.0441,-0.11831 l 0.38294,-0.71545 c 0.0256,-0.0437 0.0231,-0.11241 -0.005,-0.15409 l -1.11172,-1.62079 c -0.0283,-0.0417 -0.022,-0.10463 0.0138,-0.14034 l 1.48596,-1.48872 c 0.0358,-0.0358 0.0986,-0.0396 0.14035,-0.0107 l 1.65104,1.13097 c 0.0417,0.029 0.11121,0.0334 0.15684,0.0107 l 1.55475,-0.6219 c 0.0484,-0.0151 0.0955,-0.0686 0.10459,-0.11831 l 0.37149,-1.99228 c 0.009,-0.0499 0.0594,-0.0908 0.11008,-0.0908 l 2.10236,0 c 0.0507,0 0.0978,0.0409 0.10733,0.0908 l 0.38249,2.04182 c 0.009,0.05 0.0538,0.10449 0.10172,0.12113 l 1.4612,0.62739 c 0.0452,0.0232 0.11757,0.0176 0.15961,-0.0107 l 1.73361,-1.18875 c 0.0417,-0.0287 0.10447,-0.0219 0.14033,0.0138 l 1.4887,1.48595 c 0.0361,0.0357 0.0398,0.0986 0.0112,0.14034 l -1.21077,1.76664 c -0.0288,0.0416 -0.0333,0.11147 -0.0112,0.15685 l 0.58062,1.41716 c 0.016,0.0484 0.0685,0.0951 0.11832,0.10463 l 2.11335,0.3935 c 0.0499,0.009 0.0907,0.0567 0.0907,0.10731 z"
    id="rect29445"
