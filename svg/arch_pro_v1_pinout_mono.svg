@@ -20,7 +20,7 @@
    xml:space="preserve"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="arch_pro_v1_pinout_mono.svg"
-   inkscape:export-filename="D:\ArtworkPulbic\svg\arch_pro_v1_pinout_mono.png"
+   inkscape:export-filename="D:\ArtworkPulbic\png\arch_pro_v1_pinout_mono.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"><metadata
    id="metadata2250"><rdf:RDF><cc:Work
@@ -1113,7 +1113,7 @@
    inkscape:window-x="1358"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer2"
+   inkscape:current-layer="layer1"
    inkscape:snap-bbox="true"
    inkscape:object-nodes="true"
    inkscape:snap-smooth-nodes="true"
@@ -3148,12 +3148,14 @@
 
 
 
+
 <text
    y="43.278202"
    x="166.73254"
    gorn="0.4.0.0.0.0.0.20.0.0.0.0.0.1.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:OCRA;-inkscape-font-specification:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan11441-2">LED2</text>
+
 
 
 
@@ -3168,12 +3170,14 @@
 
 
 
+
 <text
    y="37.748024"
    x="166.73254"
    gorn="0.4.0.0.0.0.0.20.0.0.0.0.0.3.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:OCRA;-inkscape-font-specification:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan11439-3">LED3</text>
+
 
 
 
@@ -3189,6 +3193,7 @@
 
 
 
+
 <text
    y="67.122566"
    x="-138.82758"
@@ -3196,6 +3201,7 @@
    gorn="0.4.0.0.0.0.0.26.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:OCRA;-inkscape-font-specification:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan11441-1-2">MSD</text>
+
 
 
 
@@ -3211,6 +3217,7 @@
 
 
 
+
 <text
    y="61.592384"
    x="-138.82758"
@@ -3218,6 +3225,7 @@
    gorn="0.4.0.0.0.0.0.28.0.0.0.0.0.0.1.0.0.0.0.0.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:OCRA;-inkscape-font-specification:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan11439-9-2">HID</text>
+
 
 
 
@@ -3234,6 +3242,7 @@
 
 
 
+
 <text
    y="147.95264"
    x="-139.48273"
@@ -3242,6 +3251,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text511-2"
    font-size="4">P0_23</text>
+
 
 
 
@@ -3258,6 +3268,7 @@
 
 
 
+
 <text
    y="105"
    x="-139.42622"
@@ -3266,6 +3277,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text603-7"
    font-size="3.5">3V3</text>
+
 
 
 
@@ -3282,6 +3294,7 @@
 
 
 
+
 <text
    y="162.35204"
    x="-139.48273"
@@ -3290,6 +3303,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text655-2"
    font-size="4">P0_25</text>
+
 
 
 
@@ -3306,6 +3320,7 @@
 
 
 
+
 <text
    y="176.75153"
    x="-139.48273"
@@ -3314,6 +3329,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text667-7"
    font-size="4">P1_30</text>
+
 
 
 
@@ -3330,6 +3346,7 @@
 
 
 
+
 <text
    y="133.92091"
    x="-139.42622"
@@ -3338,6 +3355,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text683-5"
    font-size="3.5">VIN</text>
+
 
 
 
@@ -3354,6 +3372,7 @@
 
 
 
+
 <text
    y="90.599625"
    x="-139.42622"
@@ -3362,6 +3381,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text773-3"
    font-size="3.5">IOREF</text>
+
 
 
 
@@ -3378,6 +3398,7 @@
 
 
 
+
 <text
    y="83.272377"
    x="-139.42622"
@@ -3386,6 +3407,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text773-4-7"
    font-size="3.5">P2_12</text>
+
 
 
 
@@ -3400,12 +3422,14 @@
 
 
 
+
 <text
    y="104.90631"
    x="137.81483"
    gorn="0.4.0.0.0.0.0.62.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text411-8-0-6-0-3">SDA</text>
+
 
 
 
@@ -3420,12 +3444,14 @@
 
 
 
+
 <text
    y="99.458282"
    x="137.81483"
    gorn="0.4.0.0.0.0.0.62.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text411-8-0-6-7-6">SCL</text>
+
 
 
 
@@ -3440,12 +3466,14 @@
 
 
 
+
 <text
    y="104.90631"
    x="165.19624"
    gorn="0.4.0.0.0.0.0.63.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text411-8-0-6-0-2-9">TX</text>
+
 
 
 
@@ -3460,12 +3488,14 @@
 
 
 
+
 <text
    y="99.458282"
    x="165.19624"
    gorn="0.4.0.0.0.0.0.63.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text411-8-0-6-7-8-5">RX</text>
+
 
 
 
@@ -3480,12 +3510,14 @@
 
 
 
+
 <text
    y="139.45828"
    x="27.35943"
    id="tspan11425-6"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:OCRA;-inkscape-font-specification:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    gorn="0.4.0.0.0.0.0.64.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0">BUTTON</text>
+
 
 
 
@@ -3500,12 +3532,14 @@
 
 
 
+
 <text
    x="151.58026"
    y="90.061684"
    gorn="0.4.0.0.0.0.0.66.0.0.0.0.0.0.0.0.0.0.0.1.0"
    style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:OCRA;-inkscape-font-specification:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="tspan11433-9">I2C</text>
+
 
 
 
@@ -3522,6 +3556,7 @@
 
 
 
+
 <text
    y="55.913425"
    x="-25.847797"
@@ -3530,6 +3565,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text531-5"
    font-size="4">P0_28</text>
+
 
 
 
@@ -3546,6 +3582,7 @@
 
 
 
+
 <text
    y="77.497406"
    x="-25.847797"
@@ -3554,6 +3591,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text553-8"
    font-size="4">GND</text>
+
 
 
 
@@ -3570,6 +3608,7 @@
 
 
 
+
 <text
    y="106.06517"
    x="-25.847797"
@@ -3578,6 +3617,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text713-9"
    font-size="4">P0_6</text>
+
 
 
 
@@ -3594,6 +3634,7 @@
 
 
 
+
 <text
    y="139.54463"
    x="-25.847797"
@@ -3602,6 +3643,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text733-4"
    font-size="4">P2_4</text>
+
 
 
 
@@ -3618,6 +3660,7 @@
 
 
 
+
 <text
    y="161.50462"
    x="-25.847797"
@@ -3626,6 +3669,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text753-3"
    font-size="4">P0_5</text>
+
 
 
 
@@ -3642,6 +3686,7 @@
 
 
 
+
 <text
    y="175.73309"
    x="-25.847797"
@@ -3650,6 +3695,7 @@
    id="text1191-1"
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    gorn="0.4.0.0.0.0.0.54.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">P4_28</text>
+
 
 
 
@@ -3666,6 +3712,7 @@
 
 
 
+
 <text
    y="92.917313"
    x="-25.847797"
@@ -3674,6 +3721,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text703-1-68"
    font-size="4">P0_8</text>
+
 
 
 
@@ -3690,6 +3738,7 @@
 
 
 
+
 <text
    y="131.92091"
    x="-25.847797"
@@ -3698,6 +3747,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text703-1-2-6"
    font-size="4">P2_5</text>
+
 
 
 
@@ -3714,6 +3764,7 @@
 
 
 
+
 <text
    y="167.47647"
    x="-25.847797"
@@ -3722,6 +3773,7 @@
    style="font-size:4px;fill:#000000;font-family:OCRA;stroke:none;stroke-opacity:1;stroke-width:0.49996791000000002;stroke-miterlimit:4;stroke-dasharray:none"
    id="text703-1-5-5"
    font-size="4">P0_4</text>
+
 
 
 
@@ -5171,6 +5223,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5184,6 +5237,7 @@
      x="55.755463"
      y="-20.960243"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">IOREF</tspan></text>
+
 
 
 
@@ -5207,6 +5261,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5220,6 +5275,7 @@
      x="58.825638"
      y="-6.3935437"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">3V3</tspan></text>
+
 
 
 
@@ -5243,6 +5299,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5256,6 +5313,7 @@
      x="57.489662"
      y="8.1763"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">GND</tspan></text>
+
 
 
 
@@ -5279,6 +5337,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5292,6 +5351,7 @@
      x="58.850044"
      y="22.743832"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">VIN</tspan></text>
+
 
 
 
@@ -5315,6 +5375,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5328,6 +5389,7 @@
      x="56.113861"
      y="44.052029"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_24</tspan></text>
+
 
 
 
@@ -5351,6 +5413,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5364,6 +5427,7 @@
      x="56.136986"
      y="58.621365"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_26</tspan></text>
+
 
 
 
@@ -5387,6 +5451,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5400,6 +5465,7 @@
      x="56.458134"
      y="73.191193"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P1_31</tspan></text>
+
 
 
 
@@ -5423,6 +5489,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5436,6 +5503,7 @@
      x="58.825638"
      y="99.806152"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">3V3</tspan></text>
+
 
 
 
@@ -5459,6 +5527,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5472,6 +5541,7 @@
      x="57.588577"
      y="106.70067"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P2_0</tspan></text>
+
 
 
 
@@ -5495,6 +5565,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5508,6 +5579,7 @@
      x="56.458134"
      y="128.55701"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_11</tspan></text>
+
 
 
 
@@ -5531,6 +5603,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5549,10 +5622,11 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
-   style="font-size:11.33287810999999900px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+   style="font-size:11.33287811px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
    x="344.17334"
    y="-40.480606"
    id="text8055-8"
@@ -5561,7 +5635,8 @@
      id="tspan8057-8"
      x="344.17334"
      y="-40.480606"
-     style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P2_23</tspan></text>
+     style="font-size:5.26169348px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">P2_13</tspan></text>
+
 
 
 
@@ -5585,6 +5660,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5598,6 +5674,7 @@
      x="345.60437"
      y="-25.914139"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_7</tspan></text>
+
 
 
 
@@ -5621,6 +5698,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5634,6 +5712,7 @@
      x="345.61465"
      y="-11.341957"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_9</tspan></text>
+
 
 
 
@@ -5657,6 +5736,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5670,6 +5750,7 @@
      x="345.92038"
      y="3.224304"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_1</tspan></text>
+
 
 
 
@@ -5693,6 +5774,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5706,6 +5788,7 @@
      x="345.63135"
      y="22.258812"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P2_5</tspan></text>
+
 
 
 
@@ -5729,6 +5812,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5742,6 +5826,7 @@
      x="345.62238"
      y="36.854591"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P2_3</tspan></text>
+
 
 
 
@@ -5765,6 +5850,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5778,6 +5864,7 @@
      x="345.63135"
      y="51.425915"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_5</tspan></text>
+
 
 
 
@@ -5801,6 +5888,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5814,6 +5902,7 @@
      x="344.16306"
      y="65.993263"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P4_28</tspan></text>
+
 
 
 
@@ -5837,6 +5926,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -5850,6 +5940,7 @@
      x="344.15536"
      id="tspan8057-22-2"
      sodipodi:role="line">P0_17</tspan></text>
+
 
 
 
@@ -5873,6 +5964,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5886,6 +5978,7 @@
      x="344.18234"
      y="109.06669"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_15</tspan></text>
+
 
 
 
@@ -5909,6 +6002,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5922,6 +6016,7 @@
      x="344.15021"
      y="123.63429"
      style="font-size:5.26169347999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">P0_16</tspan></text>
+
 
 
 
@@ -5945,6 +6040,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -5958,6 +6054,7 @@
      x="319.58585"
      y="33.1712"
      style="font-size:4.04745625999999970px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">PwmOut</tspan></text>
+
 
 
 
@@ -5981,6 +6078,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -5994,6 +6092,7 @@
      x="323.13232"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-5-2"
      sodipodi:role="line">RXD1</tspan></text>
+
 
 
 
@@ -6017,6 +6116,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6030,6 +6130,7 @@
      x="323.14813"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-3"
      sodipodi:role="line">SDA1</tspan></text>
+
 
 
 
@@ -6053,6 +6154,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6066,6 +6168,7 @@
      x="300.47989"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-4"
      sodipodi:role="line">RXD3</tspan></text>
+
 
 
 
@@ -6089,6 +6192,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6102,6 +6206,7 @@
      x="300.47989"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-4-5-4"
      sodipodi:role="line">TXD3</tspan></text>
+
 
 
 
@@ -6125,6 +6230,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6138,6 +6244,7 @@
      x="299.21606"
      y="94.437447"
      style="font-size:4.04745625999999970px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">MISO</tspan></text>
+
 
 
 
@@ -6161,6 +6268,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6174,6 +6282,7 @@
      x="300.78326"
      y="109.02096"
      style="font-size:4.04745625999999970px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">SCK</tspan></text>
+
 
 
 
@@ -6197,6 +6306,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6210,6 +6320,7 @@
      x="300.14688"
      y="-4.1032872"
      style="font-size:4.04745625999999970px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">SSEL</tspan></text>
+
 
 
 
@@ -6233,6 +6344,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6246,6 +6358,7 @@
      x="299.21606"
      y="-18.670738"
      style="font-size:4.04745625999999970px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">MISO</tspan></text>
+
 
 
 
@@ -6269,6 +6382,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6282,6 +6396,7 @@
      x="300.62021"
      y="-47.811256"
      style="font-size:4.04745625999999970px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">SDA0</tspan></text>
+
 
 
 
@@ -6305,6 +6420,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    xml:space="preserve"
@@ -6318,6 +6434,7 @@
      x="77.140198"
      y="110.30146"
      style="font-size:4.04745625999999970px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#000000">PwmOut</tspan></text>
+
 
 
 
@@ -6341,6 +6458,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6354,6 +6472,7 @@
      x="82.07019"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7"
      sodipodi:role="line">SCL2</tspan></text>
+
 
 
 
@@ -6377,6 +6496,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6390,6 +6510,7 @@
      x="105.37684"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6"
      sodipodi:role="line">RXD1</tspan></text>
+
 
 
 
@@ -6413,6 +6534,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6426,6 +6548,7 @@
      x="80.723824"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-0-5"
      sodipodi:role="line">TXD3</tspan></text>
+
 
 
 
@@ -6449,6 +6572,7 @@
 
 
 
+
 <text
    transform="translate(0,182.87901)"
    sodipodi:linespacing="125%"
@@ -6462,6 +6586,7 @@
      x="105.13375"
      id="tspan8057-65-2-4-3-5-2-7-3-8-7-5-6-5"
      sodipodi:role="line">RXD2</tspan></text>
+
 
 
 
