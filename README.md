@@ -17,3 +17,6 @@ Seeeduino is an Arduino compatible board based on Arduino Duemilanove 328. There
 ![Seeeduino V3.0](png/seeeduino_v3.png)
 
 
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Artwork)](https://github.com/igrigorik/ga-beacon)
